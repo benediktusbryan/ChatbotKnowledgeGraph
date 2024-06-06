@@ -17,7 +17,7 @@ dialirkan ke dalam aliran river yang berupa entity basin.
 
 <div align="center">
     <a href="./">
-        <img src="./figure/KG.png" width="100%"/>
+        <img src="./figure/KG.png" width="70%"/>
     </a>
 </div>
 
@@ -65,7 +65,7 @@ Sehingga didapatkan visualisasi seperti berikut:
 
 <div align="center">
     <a href="./">
-        <img src="./figure/KG Neo4j.png" width="100%"/>
+        <img src="./figure/KG Neo4j.png" width="50%"/>
     </a>
 </div>
 
@@ -74,8 +74,8 @@ Contoh hasil prompting dengan chatbot UI Gradio
 
 <div align="center">
     <a href="./">
-        <img src="./figure/Output 1.png" width="30%"/>
-        <img src="./figure/Output 2.png" width="30%"/>
-        <img src="./figure/Output 3.png" width="30%"/>
+        <img src="./figure/Output 1.png" width="70%"/>
+        <img src="./figure/Output 2.png" width="70%"/>
+        <img src="./figure/Output 3.png" width="70%"/>
     </a>
 </div>
