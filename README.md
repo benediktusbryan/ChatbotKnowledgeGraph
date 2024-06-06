@@ -74,8 +74,8 @@ Contoh hasil prompting dengan chatbot UI Gradio
 
 <div align="center">
     <a href="./">
-        <img src="./figure/output 1.png" width="30%"/>
-        <img src="./figure/output 2.png" width="30%"/>
-        <img src="./figure/output 3.png" width="30%"/>
+        <img src="./figure/Output 1.png" width="30%"/>
+        <img src="./figure/Output 2.png" width="30%"/>
+        <img src="./figure/Output 3.png" width="30%"/>
     </a>
 </div>
